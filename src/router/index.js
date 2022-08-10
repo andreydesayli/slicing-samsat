@@ -2,7 +2,8 @@ import React from 'react';
 import {createStackNavigator} from '@react-navigation/stack';
 import {
   Login,
-  SignUp
+  SignUp,
+  Dashboard,
 } from '../pages';
 
 const Stack = createStackNavigator();
@@ -10,7 +11,7 @@ const Stack = createStackNavigator();
 const Router = () => {
   return (
     <Stack.Navigator initialRouteName="BottomNavigator">
-      <Stack.Screen
+      {/* <Stack.Screen
         name="Login"
         component={Login}
         options={{headerShown: false}}
@@ -18,6 +19,11 @@ const Router = () => {
       <Stack.Screen
         name="SignUp"
         component={SignUp}
+        options={{headerShown: false}}
+      /> */}
+      <Stack.Screen
+        name="Dashboard"
+        component={Dashboard}
         options={{headerShown: false}}
       />
     </Stack.Navigator>

@@ -4,6 +4,7 @@ import IMGUnklab from './img-unklab.png'
 import IMGJasaraharja from './img-jasaraharja.png'
 import IMGSatlantas from './img-satlantas.png'
 import IMGPemprov from './img-pemprov-removebg-preview.png'
+import IMGMotor from './img-motor.png'
 
 export { 
     IMGBapenda,
@@ -12,4 +13,5 @@ export {
     IMGJasaraharja,
     IMGPemprov,
     IMGSatlantas,
+    IMGMotor,
 };

@@ -1,5 +1,7 @@
 import Footer from "./Footer";
+import Card from "./Card";
 
 export {
-    Footer
+    Footer,
+    Card,
 }
