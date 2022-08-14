@@ -13,6 +13,7 @@ MERGED from [:react-native-community_masked-view] /Users/macbookair/Documents/sa
 MERGED from [:react-native-gesture-handler] /Users/macbookair/Documents/samsat/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-safe-area-context] /Users/macbookair/Documents/samsat/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-screens] /Users/macbookair/Documents/samsat/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-svg] /Users/macbookair/Documents/samsat/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.react:react-native:0.68.2] /Users/macbookair/.gradle/caches/transforms-3/e1c107e7856bf5cdd6dba54e322b105b/transformed/jetified-react-native-0.68.2/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/macbookair/.gradle/caches/transforms-3/eb5de0732845d4227271d838de9753b6/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [org.webkit:android-jsc:r250230] /Users/macbookair/.gradle/caches/transforms-3/f847d2d73496ec3d012a8ae4db387b4f/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:2:1-11:12
@@ -178,6 +179,8 @@ MERGED from [:react-native-safe-area-context] /Users/macbookair/Documents/samsat
 MERGED from [:react-native-safe-area-context] /Users/macbookair/Documents/samsat/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-screens] /Users/macbookair/Documents/samsat/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-screens] /Users/macbookair/Documents/samsat/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/macbookair/Documents/samsat/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/macbookair/Documents/samsat/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-native:0.68.2] /Users/macbookair/.gradle/caches/transforms-3/e1c107e7856bf5cdd6dba54e322b105b/transformed/jetified-react-native-0.68.2/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-native:0.68.2] /Users/macbookair/.gradle/caches/transforms-3/e1c107e7856bf5cdd6dba54e322b105b/transformed/jetified-react-native-0.68.2/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/macbookair/.gradle/caches/transforms-3/eb5de0732845d4227271d838de9753b6/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44

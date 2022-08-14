@@ -52,11 +52,13 @@ const styles = StyleSheet.create({
     card: {
         height: 228,
         width: 200,
-        shadowColor: '#171717',
+        borderColor: '#FFFFFF',
         backgroundColor: 'white',
         borderRadius: 20,
         borderWidth: 1,
         alignItems: 'center',
+        shadowColor: '#000000',
+        elevation: 10,
     },
     motor: {
         marginTop: -60,

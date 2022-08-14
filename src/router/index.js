@@ -4,6 +4,7 @@ import {
   Login,
   SignUp,
   Dashboard,
+  VehicleDetails,
 } from '../pages';
 
 const Stack = createStackNavigator();
@@ -21,9 +22,14 @@ const Router = () => {
         component={SignUp}
         options={{headerShown: false}}
       /> */}
-      <Stack.Screen
+      {/* <Stack.Screen
         name="Dashboard"
         component={Dashboard}
+        options={{headerShown: false}}
+      /> */}
+      <Stack.Screen
+        name="VehicleDetails"
+        component={VehicleDetails}
         options={{headerShown: false}}
       />
     </Stack.Navigator>
